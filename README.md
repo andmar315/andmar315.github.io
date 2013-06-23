@@ -1,6 +1,6 @@
 andmar315.github.io
 ===================
 
-My GitHub Page
+This repository hosts my GitHub Page
 
-Under construction
+Under construction/Testing
